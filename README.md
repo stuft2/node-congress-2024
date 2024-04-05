@@ -20,5 +20,8 @@ Recordings available for free on [portal.gitnation.org](https://portal.gitnation
 
 [Lightning Talks](./Lightning-Talks.md)
 
-## Day 2 Speakers
-*TBD*
+## Day 2 Discussions
+
+- [Will Bun or Deno Replace Node.js?](./day-2/bun-deno.md)
+- [CommonJS vs ESM, the fight is on!](./day-2/cjs-esm.md)
+- [Open Source Software: Open Governance or for-profit Startups?](./day-2/open-source.md)
